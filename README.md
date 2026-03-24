@@ -57,10 +57,12 @@ Calculation:
 
 a.   KVL:
  
+![Uploading Screenshot 2026-03-24 132658.png…]()
 
 
 b.  KCL:
 
+![Uploading Screenshot 2026-03-24 132726.png…]()
 
 
 
@@ -68,10 +70,12 @@ Tabulation:
 
 a.   KVL:
  
+![Uploading Screenshot 2026-03-24 132800.png…]()
 
 
 b.  KCL:
 
+![Uploading Screenshot 2026-03-24 132812.png…]()
 
 
 RESULT:
